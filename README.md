@@ -13,5 +13,6 @@ Usage
 Download the files from this repository.
 Open animation.mp4 to view the Quick Return Mechanism in action.
 Refer to quick_return_mechanism_part.pdf for in-depth details about the mechanism's components and operation.
+
 Contributing
 Contributions are welcome! If you have suggestions or improvements, please submit an issue or a pull request.
